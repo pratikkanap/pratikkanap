@@ -81,8 +81,9 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pratikkanap&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" alt="GitHub Contributor Stats"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=pratikkanap&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" height="200px" alt="GitHub Contributor Stats"/>
 </p>
+
 
 
 
