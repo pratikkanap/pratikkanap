@@ -69,13 +69,17 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pratikkanap&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkanap&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikkanap&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkanap&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pratikkanap&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 
