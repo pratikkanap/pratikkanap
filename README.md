@@ -5,7 +5,9 @@
   <br>
   🌐 <a href="https://www.linkedin.com/in/kanap-pratik/">LinkedIn</a> | <a href="https://github.com/pratikkanap/">GitHub</a>
 </p>
+
 ---
+
 ## 🎓 Education
 
 - 🏫 **B.Tech in Computer Science and Engineering** — *Tatyasaheb Kore Institute of Engineering and Technology, Warananagar, Kolhapur*  
