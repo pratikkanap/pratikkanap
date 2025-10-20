@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
 
 ---
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## 💼 Internship Experience
 
@@ -35,6 +34,7 @@
 ---
 
 ## 🚀 Projects
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ### 📘 **Attendance Monitoring and Performance Evaluation System**
 📅 *Nov 2024 – May 2025*  
@@ -83,11 +83,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pratikkanap&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=pratikkanap&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
 
 ⭐ *“Code. Learn. Build. Improve.”*  
