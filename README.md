@@ -73,8 +73,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pratikkanap&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160px" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkanap&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgflip.com/65efzo.gif" height="160px" />
 </p>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 
 ### 🔝 Top Contributed Repo
