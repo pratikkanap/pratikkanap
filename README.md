@@ -84,7 +84,8 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=pratikkanap&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" height="200px" alt="GitHub Contributor Stats"/>
 </p>
 
-
+<br clear="both">
+<img src="https://raw.githubusercontent.com/pratikkanap/pratikkanap/output/snake.svg" alt="Snake animation" />
 
 
 
