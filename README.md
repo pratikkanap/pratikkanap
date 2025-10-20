@@ -54,11 +54,9 @@
 - Designed and implemented **Java-based RESTful APIs** using **Spring Boot** and **JDBC Template**.  
 - Created **MySQL database schemas** to reduce query execution time.  
 - Developed **authentication and authorization** modules for secure access.  
-- Improved database performance by optimizing SQL queries.  
-
-
+- Improved database performance by optimizing SQL queries.
+  
 ---
-
 ## 🏅 Certifications
 
 - ☕ **Infosys Springboard** — Java (Intermediate Level) (Oct 2023)  
@@ -67,7 +65,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pratikkanap&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratikkanap&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160px" />
@@ -77,16 +74,9 @@
   <img src="https://i.imgflip.com/65efzo.gif" height="160px" />
 </p>
 
-
-
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=pratikkanap&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" height="200px" alt="GitHub Contributor Stats"/>
 </p>
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/pratikkanap/pratikkanap/output/snake.svg" alt="Snake animation" />
-
-
 
 ⭐ *“Code. Learn. Build. Improve.”*  
