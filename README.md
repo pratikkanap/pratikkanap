@@ -3,10 +3,9 @@
 <p align="center">
   📧 <a href="mailto:kanappratik@gmail.com">kanappratik@gmail.com</a> 
   <br>
-  🌐 <a href="https://www.linkedin.com/in/kanap-pratik/">LinkedIn</a> | <a href="https://github.com/pratikkanap/">GitHub</a>
+  🌐 Socials:<a href="https://www.linkedin.com/in/kanap-pratik/">LinkedIn</a> | <a href="https://github.com/pratikkanap/">GitHub</a>
 </p>
 
-🌐 Socials:</p>
 ---
 <h3>About Me </h3>
 <p>An Computer Science engineer with a keen interest in software development and strong problem-solving skills.
