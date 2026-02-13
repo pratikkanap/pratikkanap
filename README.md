@@ -1,70 +1,116 @@
 <h1 align="center">👋 Hi, I'm KANAP PRATIK POPAT</h1>
 
 <p align="center">
-  📧 <a href="mailto:kanappratik@gmail.com">kanappratik@gmail.com</a> 
-  <br>
-  🌐 Socials:<a href="https://www.linkedin.com/in/kanap-pratik/">LinkedIn</a> | <a href="https://github.com/pratikkanap/">GitHub</a>
+  📧 <a href="mailto:kanappratik@gmail.com">kanappratik@gmail.com</a><br>
+  🌐 <a href="https://www.linkedin.com/in/kanap-pratik/">LinkedIn</a> |
+  <a href="https://github.com/pratikkanap/">GitHub</a>
 </p>
 
 ---
-<h3>About Me </h3>
-<p>An Computer Science engineer with a keen interest in software development and strong problem-solving skills.
-Eager to contribute to innovative software projects while continuously enhancing my expertise in the field.
+
+## 👨‍💻 About Me
+
+Computer Science Engineer and PG-DAC (CDAC) student with strong interest in Full-Stack and Backend Development.  
+Skilled in Java, .NET, Data Structures, and Web Technologies with hands-on project experience.  
+Passionate about building scalable, production-ready applications and continuously improving technical expertise.
+
 ---
 
 ## 🎓 Education
 
-- 🏫 **B.Tech in Computer Science and Engineering** — *Tatyasaheb Kore Institute of Engineering and Technology, Warananagar, Kolhapur*  
-  - CGPA: **7.3**  
-- 📚 **12th (CBSE)** — *Kendriya Vidyalaya (B.E.G), Pune* — 64%  
-- 📘 **10th (CBSE)** — *Kendriya Vidyalaya (B.E.G), Pune* — 68%
+- 🎓 **PG-DAC (Aug 2025 Batch)** — CDAC  
+  - Total Marks: **200 / 320**
+
+- 🏫 **B.Tech in Computer Science & Engineering**  
+  Tatyasaheb Kore Institute of Engineering and Technology, Kolhapur  
+  - Percentage: **69.45%**  
+  - University: Shivaji University  
+  - Passing Year: 2025  
+
+- 📚 **12th (CBSE)** — Kendriya Vidyalaya (B.E.G), Pune — 64.4%  
+- 📘 **10th (CBSE)** — Kendriya Vidyalaya (B.E.G), Pune — 68.6%
 
 ---
 
-## 💻 Technical skills :
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+## 💻 Technical Skills
+
+### 👨‍💻 Programming & Backend
+- Java
+- C++
+- C
+- .NET (ASP.NET Core)
+- Spring Boot
+- JDBC
+
+### 🌐 Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Bootstrap
+
+### 🗄️ Database & Tools
+- MySQL
+- MongoDB
+- Git
+- GitHub
+- AWS
 
 ---
 
-## 🚀 Projects
+## 🚀 Academic Projects
 
-### 📘 **Acadmix (Attendance Monitoring and Performance Evaluation System)**
-📅 *Nov 2024 – May 2025*  
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, HTML, CSS, JavaScript  
+### 🥗 NutriFit – Fitness Tracker & Diet Planning System
+**Tech Stack:** ASP.NET Core, C#, React.js, Entity Framework, MySQL, AWS  
 
-- Built a web-based platform for tracking student attendance and performance evaluation.  
-- Implemented modules for marking daily attendance, generating monthly reports, and identifying defaulters.  
-- Designed a responsive frontend using **React.js** and **Bootstrap** for seamless interaction.
+- Developed full-stack fitness and diet planning web application.  
+- Implemented workout scheduling, calorie tracking, and analytics.  
+- Built responsive UI using React.js.  
+- Designed admin dashboard for managing users and plans.  
+- Deployed application on AWS.  
 
-
-### 🅿️ **Parking Finder Website**
-📅 *June 2024 – Sept 2024*  
-**Tech Stack:** HTML, CSS, JavaScript  
-
-- Developed a frontend interface to manage vehicle details and assist users in finding available parking spaces.  
-- Implemented **dynamic search and filters** to improve user experience and accessibility.  
+🔗 Repository: https://github.com/harode12/NutriFit  
 
 ---
+
+### 📘 Academix – Attendance Monitoring & Performance Evaluation System
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
+
+- Built role-based full-stack system for attendance and performance tracking.  
+- Developed secure REST APIs using Node.js & Express.  
+- Created responsive dashboards with React.js.  
+- Implemented automated alerts for defaulters.  
+
+🔗 Repository: https://github.com/pratikkanap/Academix  
+
+---
+
 ## 💼 Internship Experience
 
-### **Technocipher IT Solutions** | *Java Web Development Intern*  
-📍 Pune, India | *Jan 2025 – Aug 2025*
+### Technocipher IT Solutions — Java Developer Intern  
+📍 Pune, India  
 
-- Developed and optimized backend systems for **Healthcare Plus** and **ERP** solutions, improving data processing efficiency.  
-- Designed and implemented **Java-based RESTful APIs** using **Spring Boot** and **JDBC Template**.  
-- Created **MySQL database schemas** to reduce query execution time.  
-- Developed **authentication and authorization** modules for secure access.  
-- Improved database performance by optimizing SQL queries.
-  
----
-## 🏅 Certifications
-
-- ☕ **Infosys Springboard** — Java (Intermediate Level) (Oct 2023)  
-- 🎨 **Let’s Upgrade** — Front-End Bootcamp (Sept 2023)
+- Developed backend systems for Healthcare and ERP solutions.  
+- Built RESTful APIs using Spring Boot & JDBC Template.  
+- Designed and optimized MySQL database schemas.  
+- Implemented authentication & authorization modules.  
+- Improved database performance using SQL query optimization.
 
 ---
-⭐ *“Code. Learn. Build. Improve.”*  
+
+## 🏆 Certifications
+
+- Infosys Springboard — Java (Intermediate Level)  
+- Let’s Upgrade — Front-End Bootcamp  
+
+---
+
+## 🏏 Extra Information
+
+- Extra Curricular: Cricket  
+- Hobbies: Listening to Music, Playing Cricket  
+- Languages: English, Marathi, Hindi  
+
+---
+
+⭐ *"Code. Learn. Build. Improve."*
