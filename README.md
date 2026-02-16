@@ -2,161 +2,146 @@
 
 # 👋 Hi, I'm Kanap Pratik Popat
 
-### 🚀 Full-Stack Developer | Java Backend Specialist | Cloud-Aware Engineer
+### 🚀 Java Full-Stack Developer | Backend-Focused Engineer | Cloud-Aware Problem Solver
 
 <p>
   <a href="https://www.linkedin.com/in/kanap-pratik/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/pratikkanap/">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:kanappratik@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=pratikkanap&color=blueviolet&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=pratikkanap&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
-# 💼 Professional Summary
+## 💼 About Me
 
-Computer Science Engineer & **PG-DAC (CDAC) Student** with strong expertise in building scalable full-stack applications using **Java, Spring Boot, .NET, React, and Node.js**.
+🎓 Computer Science Engineer | PG-DAC (CDAC) 2025  
+💡 Passionate about building scalable backend systems and production-ready applications.  
 
-🔹 Strong backend architecture & REST API development  
-🔹 Clean code advocate with OOP & design pattern knowledge  
-🔹 Experience deploying applications on AWS  
-🔹 Passionate about solving real-world problems through software  
+I specialize in **Java & Spring Boot**, with strong foundations in **OOP, system design, and RESTful architecture**.  
+I focus on writing **clean, maintainable, and performance-optimized code**.
 
-> I build production-ready systems — not just projects.
-
----
-
-# 🧠 Technical Skills
-
-## 👨‍💻 Languages
-- Java (Core + Advanced)
-- C#
-- JavaScript
-- C++
-- C
-
-## 🎨 Frontend
-- React.js
-- HTML5
-- CSS3
-- Bootstrap
-
-## ⚙ Backend & Frameworks
-- Spring Boot
-- ASP.NET Core
-- Node.js
-- Express.js
-- RESTful API Development
-- JWT Authentication
-
-## 🗄 Databases
-- MySQL
-- MongoDB
-- Database Design & Optimization
-- JDBC / Entity Framework
-
-## ☁ DevOps & Tools
-- Git & GitHub
-- AWS Deployment
-- Postman
-- VS Code / IntelliJ / Visual Studio
+> I don’t just build projects — I build systems that scale.
 
 ---
 
-# 🚀 Featured Projects
+## 🧠 Technical Expertise
 
-## 🥗 NutriFit – Fitness & Diet Planning System
+### 👨‍💻 Programming Languages
+`Java` • `C#` • `JavaScript` • `C++` • `C`
+
+### ⚙ Backend & Frameworks
+`Spring Boot` • `ASP.NET Core` • `Node.js` • `Express.js`  
+`REST APIs` • `JWT Authentication` • `JDBC` • `Entity Framework`
+
+### 🎨 Frontend
+`React.js` • `HTML5` • `CSS3` • `Bootstrap`
+
+### 🗄 Databases
+`MySQL` • `MongoDB`  
+Database Design • Query Optimization • Normalization
+
+### ☁ DevOps & Tools
+`Git` • `GitHub` • `AWS Deployment` • `Postman`  
+`VS Code` • `IntelliJ IDEA` • `Visual Studio`
+
+---
+
+## 🚀 Featured Projects
+
+### 🥗 NutriFit – Fitness & Diet Planning System  
 **Tech Stack:** ASP.NET Core | React.js | MySQL | AWS | Entity Framework  
 
-🔹 Designed and developed full-stack health tracking system  
-🔹 Implemented role-based authentication (Admin/User)  
-🔹 Built analytics dashboard for calorie & workout tracking  
-🔹 Deployed on AWS with optimized database performance  
+✔ Designed scalable full-stack architecture  
+✔ Implemented role-based authentication (Admin/User)  
+✔ Built real-time analytics dashboard  
+✔ Optimized database queries for performance  
 
-**Impact:**  
-✔ Improved user fitness tracking efficiency  
-✔ Scalable architecture supporting multiple user roles  
+📌 Result: Improved user engagement & efficient health tracking  
 
-GitHub: https://github.com/harode12/NutriFit
+🔗 GitHub: https://github.com/harode12/NutriFit  
 
 ---
 
-## 📘 Academix – Attendance & Performance Management System
+### 📘 Academix – Attendance & Performance Management System  
 **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
 
-🔹 Built secure REST APIs with JWT authentication  
-🔹 Designed role-based dashboards (Student / Teacher / Admin)  
-🔹 Implemented automated attendance defaulter alerts  
-🔹 Structured scalable MongoDB schema  
+✔ Secure REST APIs with JWT authentication  
+✔ Role-based dashboards (Student / Teacher / Admin)  
+✔ Automated attendance defaulter alerts  
+✔ Structured scalable MongoDB schema  
 
-**Impact:**  
-✔ Reduced manual attendance tracking  
-✔ Enabled real-time performance monitoring  
+📌 Result: Reduced manual tracking & enabled real-time monitoring  
 
-GitHub: https://github.com/pratikkanap/Academix
+🔗 GitHub: https://github.com/pratikkanap/Academix  
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 
-## 👨‍💻 Java Developer Intern  
+### 👨‍💻 Java Developer Intern  
 **Technocipher IT Solutions – Pune**
 
 - Developed backend modules for Healthcare & ERP systems  
 - Built REST APIs using Spring Boot & JDBC Template  
-- Optimized SQL queries improving performance  
+- Optimized SQL queries to improve performance  
 - Implemented authentication & role-based access control  
-- Designed normalized MySQL schemas  
+- Designed normalized and scalable MySQL schemas  
 
-**Tech Used:** Java | Spring Boot | MySQL | JDBC | REST
-
----
-
-# 🎓 Education
-
-🎓 PG-DAC – CDAC (2025)  
-🎓 B.Tech CSE – TKIT Kolhapur (69.45%)  
-🏫 CBSE – Kendriya Vidyalaya  
+**Tech:** Java • Spring Boot • MySQL • JDBC • REST APIs  
 
 ---
 
-# 📊 GitHub Analytics
+## 🎓 Education
+
+🎓 **PG-DAC – CDAC (2025)**  
+🎓 **B.Tech CSE – TKIET Kolhapur (69.45%)**  
+🏫 **CBSE – Kendriya Vidyalaya**
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikkanap&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikkanap&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkanap&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkanap&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkanap&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkanap&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
 - Java (Intermediate) – Infosys Springboard  
 - Front-End Bootcamp – Let's Upgrade  
 
 ---
 
-# 🎯 Career Objective
+## 🎯 Career Focus
 
-Seeking an opportunity as a **Java Full-Stack Developer** where I can contribute to scalable enterprise applications and continuously grow in backend architecture & cloud technologies.
+Seeking a role as a **Java Full-Stack Developer** in a growth-driven organization where I can:
+
+- Contribute to scalable enterprise applications  
+- Strengthen backend architecture expertise  
+- Work on cloud-native solutions  
+- Continuously evolve as a software engineer  
 
 ---
 
-# 📫 Let’s Connect
+## 📫 Let’s Connect
 
-I’m open to collaborations, internships, and full-time opportunities.
+💬 Open to internships, collaborations & full-time opportunities  
 
 📩 Email: kanappratik@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/kanap-pratik/  
@@ -164,5 +149,8 @@ I’m open to collaborations, internships, and full-time opportunities.
 
 ---
 
-### ⭐ “Discipline in code. Excellence in execution.” ⭐
+<div align="center">
 
+### ⭐ Discipline in Code. Excellence in Execution. ⭐
+
+</div>
