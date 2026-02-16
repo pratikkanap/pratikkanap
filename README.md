@@ -2,17 +2,18 @@
 
 # 👋 Hi, I'm Kanap Pratik Popat
 
-### 🚀 Java Full-Stack Developer | Backend-Focused Engineer | PG-DAC (CDAC)
+ 
+### 🚀 Aspiring Software Engineer and PG-DAC (CDAC) graduate skilled in Java, Spring Boot, React, REST APIs, backend development, OOP principles, and database-driven application design.
 
 <p>
   <a href="https://www.linkedin.com/in/kanap-pratik/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/pratikkanap/">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:kanappratik@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -22,91 +23,69 @@
 
 ---
 
-# 💼 Professional Summary
+# 🚀 Professional Summary
 
-Computer Science Engineer and **PG-DAC student at CDAC**, passionate about building scalable, production-ready applications using **Java, Spring Boot, .NET, React, and Node.js**.
-
-🔹 Strong backend architecture & REST API development  
-🔹 Experience with authentication (JWT), role-based systems  
-🔹 Database design & query optimization  
-🔹 Cloud deployment using AWS  
-🔹 Clean code & OOP-driven development  
-
-> I focus on writing maintainable code that solves real-world problems.
-
+Aspiring Software Engineer and PG-DAC (CDAC) graduate with hands-on experience in developing scalable web applications using Java, Spring Boot, React, .NET, and Node.js. Good foundation in OOP principles, RESTful API development, and database (MySQL). Passionate about building secure, maintainable, and problem-solving skills.
 ---
 
-# 🧠 Technical Skills
+# 🧠 Technical Stack
 
 ## 👨‍💻 Languages
-- Java (Core & Advanced)
-- C#
-- JavaScript
-- C++
-- C
+`Java` `C#` `JavaScript` `C++` `C`
+
+## ⚙ Backend
+`Spring Boot` `ASP.NET Core` `Node.js` `Express.js`  
+`REST APIs` `JWT Authentication` `Role-Based Access`  
+`JDBC` `Entity Framework`
 
 ## 🎨 Frontend
-- React.js
-- HTML5
-- CSS3
-- Bootstrap
+`React.js` `HTML5` `CSS3` `Bootstrap`
 
-## ⚙ Backend & Frameworks
-- Spring Boot
-- ASP.NET Core
-- Node.js
-- Express.js
-- RESTful APIs
-- JWT Authentication
-
-## 🗄 Databases
-- MySQL
-- MongoDB
-- JDBC
-- Entity Framework
-- Database Normalization & Optimization
+## 🗄 Database
+`MySQL` `MongoDB`  
+Database Normalization  
+Query Optimization  
+Schema Design  
 
 ## ☁ Tools & Cloud
-- Git & GitHub
-- AWS Deployment
-- Postman
-- IntelliJ / VS Code / Visual Studio
+`AWS Deployment` `Git` `GitHub` `Postman`  
+`IntelliJ IDEA` `VS Code` `Visual Studio`
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🥗 NutriFit – Fitness & Diet Planning System  
-**Tech Stack:** ASP.NET Core | React.js | MySQL | AWS | Entity Framework  
+**Tech:** ASP.NET Core | React | MySQL | AWS  
 
-- Developed a full-stack fitness tracking system  
-- Implemented secure authentication & role-based access  
-- Built analytics dashboard for calorie and workout tracking  
-- Deployed application on AWS  
+🔹 Designed full-stack fitness tracking platform  
+🔹 Implemented JWT-based secure authentication  
+🔹 Built admin + user dashboards  
+🔹 Deployed on AWS cloud  
 
-**Key Features:**  
+### Key Highlights:
 ✔ Real-time calorie tracking  
 ✔ Personalized workout plans  
-✔ Admin management panel  
+✔ Role-based secure system  
 
-GitHub: https://github.com/harode12/NutriFit
+🔗 GitHub: https://github.com/harode12/NutriFit
 
 ---
 
 ## 📘 Academix – Attendance & Performance Management System  
-**Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
+**Tech:** MERN Stack (MongoDB, Express, React, Node.js)
 
-- Built secure REST APIs with JWT authentication  
-- Designed role-based dashboards (Student / Teacher / Admin)  
-- Implemented attendance alerts & performance reports  
-- Structured scalable MongoDB database schema  
+🔹 Developed secure REST APIs with JWT  
+🔹 Designed multi-role dashboard (Student / Teacher / Admin)  
+🔹 Created performance analytics & attendance alerts  
+🔹 Structured scalable MongoDB schema  
 
-**Key Features:**  
+### Key Highlights:
 ✔ Real-time attendance monitoring  
-✔ Performance evaluation system  
-✔ Multi-role secure access  
+✔ Performance evaluation engine  
+✔ Role-based secure architecture  
 
-GitHub: https://github.com/pratikkanap/Academix
+🔗 GitHub: https://github.com/pratikkanap/Academix
 
 ---
 
@@ -115,71 +94,61 @@ GitHub: https://github.com/pratikkanap/Academix
 ## 👨‍💻 Java Developer Intern  
 **Technocipher IT Solutions – Pune**
 
-- Developed backend modules for Healthcare & ERP solutions  
-- Built REST APIs using Spring Boot & JDBC Template  
-- Designed optimized MySQL database schemas  
-- Improved SQL performance through query tuning  
-- Implemented authentication & authorization modules  
+🔹 Developed backend modules for Healthcare & ERP systems  
+🔹 Built REST APIs using Spring Boot  
+🔹 Optimized MySQL queries for performance improvement  
+🔹 Implemented authentication & authorization modules  
 
-**Tech Used:** Java | Spring Boot | MySQL | JDBC | REST APIs  
+**Tech Stack:** Java | Spring Boot | JDBC | MySQL | REST APIs
 
 ---
 
 # 🎓 Education
 
-## 🎓 Post Graduate Diploma in Advanced Computing (PG-DAC)  
-**Centre for Development of Advanced Computing (CDAC)**  
-📅 2025 | Score: 200 / 320  
+🎓 **PG-DAC – CDAC (2025)**  
+Score: 200/320  
 
-- Intensive full-stack and enterprise application training  
-- Hands-on development in Java, .NET & Cloud-based systems  
-- Built real-world industry-level projects  
+🎓 **B.Tech – Computer Science & Engineering (2025)**  
+Percentage: 69.45%  
 
----
+🎓 **Higher Secondary (12th)**  
+Stream: Science  
+Percentage: [Add Your Percentage]  
 
-## 🎓 Bachelor of Technology – Computer Science & Engineering  
-**TKIT, Kolhapur**  
-📅 2025 | 69.45%  
+🎓 **Secondary School (10th)**  
+Percentage: [Add Your Percentage]  
 
-- Core Subjects: Data Structures, OOP, DBMS, OS, Computer Networks  
-- Strong foundation in software development principles  
-
----
-
-## 📘 Higher Secondary (CBSE)  
-**Kendriya Vidyalaya, Pune** – 64.4%
-
-## 📗 Secondary (CBSE)  
-**Kendriya Vidyalaya, Pune** – 68.6%
+### Core Subjects:
+Data Structures | OOP | DBMS | Operating Systems | Computer Networks
 
 ---
 
 # 🏆 Certifications
 
-- Java (Intermediate) – Infosys Springboard  
-- Front-End Bootcamp – Let's Upgrade  
+✔ Java (Intermediate) – Infosys Springboard  
+✔ Front-End Bootcamp – Let's Upgrade  
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikkanap&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikkanap&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkanap&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkanap&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkanap&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkanap&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 🎯 Career Objective
 
-Seeking an opportunity as a **Java Full-Stack Developer** where I can contribute to scalable enterprise applications and grow in backend architecture, system design, and cloud technologies.
+To secure an entry-level Software Engineer position in a reputed organization where I can apply my knowledge of Java, Spring Boot, ASP .NET and database management to develop scalable, secure applications while contributing to team-driven projects and continuous process improvement.
 
 ---
 
-# 📫 Let’s Connect
+# 📫 Let's Connect
 
 📩 Email: kanappratik@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/kanap-pratik/  
@@ -187,5 +156,8 @@ Seeking an opportunity as a **Java Full-Stack Developer** where I can contribute
 
 ---
 
-### ⭐ “Discipline in code. Excellence in execution.” ⭐
+<div align="center">
 
+### ⭐ Discipline in Code. Excellence in Execution. ⭐
+
+</div>
