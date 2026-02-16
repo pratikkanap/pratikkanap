@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kanap Pratik Popat
 
-### 🚀 Aspiring Software Engineer | PG-DAC (CDAC)
+### 🚀 Java Full-Stack Developer | Backend-Focused Engineer | PG-DAC (CDAC)
 
 <p>
   <a href="https://www.linkedin.com/in/kanap-pratik/">
@@ -24,7 +24,15 @@
 
 # 💼 Professional Summary
 
-Aspiring Software Engineer and PG-DAC (CDAC) graduate with hands-on experience in Java, Spring Boot, React, .NET, and REST API development. Strong foundation in OOP, database design, JWT authentication, and AWS deployment. 
+Computer Science Engineer and **PG-DAC student at CDAC**, passionate about building scalable, production-ready applications using **Java, Spring Boot, .NET, React, and Node.js**.
+
+🔹 Strong backend architecture & REST API development  
+🔹 Experience with authentication (JWT), role-based systems  
+🔹 Database design & query optimization  
+🔹 Cloud deployment using AWS  
+🔹 Clean code & OOP-driven development  
+
+> I focus on writing maintainable code that solves real-world problems.
 
 ---
 
@@ -34,12 +42,14 @@ Aspiring Software Engineer and PG-DAC (CDAC) graduate with hands-on experience i
 - Java (Core & Advanced)
 - C#
 - JavaScript
+- C++
 - C
 
 ## 🎨 Frontend
 - React.js
 - HTML5
 - CSS3
+- Bootstrap
 
 ## ⚙ Backend & Frameworks
 - Spring Boot
@@ -54,9 +64,11 @@ Aspiring Software Engineer and PG-DAC (CDAC) graduate with hands-on experience i
 - MongoDB
 - JDBC
 - Entity Framework
+- Database Normalization & Optimization
 
-## ☁ Tools 
+## ☁ Tools & Cloud
 - Git & GitHub
+- AWS Deployment
 - Postman
 - IntelliJ / VS Code / Visual Studio
 
@@ -69,13 +81,13 @@ Aspiring Software Engineer and PG-DAC (CDAC) graduate with hands-on experience i
 
 - Developed a full-stack fitness tracking system  
 - Implemented secure authentication & role-based access  
-- Built analytics dashboard for Diet and workout tracking  
+- Built analytics dashboard for calorie and workout tracking  
 - Deployed application on AWS  
 
 **Key Features:**  
-✔ Real-time Diet and Workout Suggestion on Persons BMI  
+✔ Real-time calorie tracking  
 ✔ Personalized workout plans  
-✔ Admin management panel   
+✔ Admin management panel  
 
 GitHub: https://github.com/harode12/NutriFit
 
@@ -84,6 +96,7 @@ GitHub: https://github.com/harode12/NutriFit
 ## 📘 Academix – Attendance & Performance Management System  
 **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
 
+- Built secure REST APIs with JWT authentication  
 - Designed role-based dashboards (Student / Teacher / Admin)  
 - Implemented attendance alerts & performance reports  
 - Structured scalable MongoDB database schema  
@@ -125,7 +138,7 @@ GitHub: https://github.com/pratikkanap/Academix
 ---
 
 ## 🎓 Bachelor of Technology – Computer Science & Engineering  
-**Tatyasaheb Kore Institute of Engineering & Technology, Warananagar, Kolhapur**  
+**TKIT, Kolhapur**  
 📅 2025 | 69.45%  
 
 - Core Subjects: Data Structures, OOP, DBMS, OS, Computer Networks  
@@ -134,12 +147,10 @@ GitHub: https://github.com/pratikkanap/Academix
 ---
 
 ## 📘 Higher Secondary (CBSE)  
-**Kendriya Vidyalaya, Pune** 
-📅 2021 | 64.4%
+**Kendriya Vidyalaya, Pune** – 64.4%
 
 ## 📗 Secondary (CBSE)  
-**Kendriya Vidyalaya, Pune** 
-📅 2019 | 68.6%
+**Kendriya Vidyalaya, Pune** – 68.6%
 
 ---
 
@@ -164,7 +175,8 @@ GitHub: https://github.com/pratikkanap/Academix
 
 # 🎯 Career Objective
 
-Seeking an opportunity as a Software Engineer where I can design, develop, and optimize scalable software systems while applying strong problem-solving skills, data structures knowledge, and clean coding practices to deliver high-performance applications.
+Seeking an opportunity as a **Java Full-Stack Developer** where I can contribute to scalable enterprise applications and grow in backend architecture, system design, and cloud technologies.
+
 ---
 
 # 📫 Let’s Connect
