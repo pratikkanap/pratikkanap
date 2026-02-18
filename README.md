@@ -14,32 +14,33 @@ Aspiring Software Engineer with strong foundations in Java, Data Structures & Al
 
 ---
 
-## 🛠 Technical Skills
-
-### Programming Languages
-Java, C++, C#, JavaScript
-
-### Backend Technologies
-Spring Boot, Node.js, Express.js, ASP.NET Core
-
-### Frontend Technologies
-React.js, HTML5, CSS3, Bootstrap
-
-### Databases
-MySQL, MongoDB
+# 🛠 Technical Skills
 
 ### Tools & Platforms
 Git, GitHub, VS Code, AWS
 
+## 💻 Programming Languages <p> <img src="https://skillicons.dev/icons?i=java,cpp,cs,js" /> </p>
+
+## ⚙️ Backend Technologies <p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" /> </p> 
+
+## 🎨 Frontend Technologies <p> <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" /> </p> 
+
+## 🗄️ Databases <p> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p> 
+
+## ☁️ Tools <p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 ---
 
 ## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pratikkanap&show_icons=true&theme=default&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pratikkanap&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkanap&theme=default&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkanap&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikkanap&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
