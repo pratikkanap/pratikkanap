@@ -112,14 +112,7 @@ Worked on backend modules, API development, and database integration.
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pratikkanap&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 # 🎯 Career Objective  
 
