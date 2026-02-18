@@ -2,27 +2,13 @@
 
 # 🚀 Hi, I'm Kanap Pratik Popat  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Full-Stack+Developer;Backend-Focused+Engineer;Spring+Boot+%7C+React+%7C+Node.js;AWS+Cloud+Enthusiast;Building+Scalable+Enterprise+Applications" />
-
----
-
-### 🎓 B.Tech – Computer Science & Engineering (2025)  
-### ☁️ Java • Spring Boot • React • Node • .NET • AWS  
-
 </div>
 
 ---
 
 ## 🧠 About Me  
 
-I am a Computer Science Student (2025) and PG-DAC graduate with good foundations in backend technology and scalable application development.
-
-🔹 Strong in Object-Oriented Programming & DSA  
-🔹 Experience building full-stack production-ready systems  
-🔹 Comfortable with REST APIs, Database Design
-🔹 Focused on writing maintainable, scalable backend code  
-
-I build systems — not just features.
+Aspiring Software Engineer with strong foundations in Java, DSA, and full-stack development. Experienced in building scalable web applications using Spring Boot, React.js, Node.js, and relational databases. Eager to apply problem-solving skills and contribute to impactful software projects.
 
 ---
 
@@ -140,22 +126,7 @@ Worked on backend modules, API development, and database integration.
 
 # 🎯 Career Objective  
 
-Seeking an opportunity as a Software Engineer / Java Backend Developer / Full-Stack Developer where I can contribute to scalable enterprise applications and grow in backend architecture, system design, and cloud technologies.
-
----
-
-# 🏆 Additional Information
-
-📍 **Address:**  
-Plot No-39/A, Sr No-57/1/2, Lane 2, Shiv Shambo Park,  
-Pathare Wasti, Lohegoan, Pune, Maharashtra  
-
-🎂 Date of Birth: 02/08/2002  
-🌍 Nationality: Indian  
-🗣 Languages Known: English, Marathi, Hindi  
-
-🏏 Extra-Curricular: Cricket  
-🎵 Hobbies: Listening to Music, Playing Cricket  
+Seeking an opportunity as a Software Engineer / Java Backend Developer / ASP .NET Developer / Full-Stack Developer where I can contribute to scalable enterprise applications and grow in backend architecture.
 
 ---
 
