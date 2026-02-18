@@ -1,152 +1,123 @@
 <div align="center">
 
-<!-- Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:1c92d2&height=250&section=header&text=Kanap%20Pratik%20Popat&fontSize=40&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=120&section=header&text=Kanap%20Pratik%20Popat&fontSize=28&fontColor=ffffff" />
 
-<!-- Typing Animation -->
-<h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+Aspiring+Software+Engineer;💻+Java+Backend+Developer;🔥+Full-Stack+Engineer;⚡+Spring+Boot+%7C+React+%7C+Node.js;🎯+DSA+%7C+System+Design+Enthusiast" />
-</h2>
-
-<!-- Coding GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+### Software Engineer | Java Backend Developer | Full-Stack Engineer
 
 </div>
 
 ---
 
-# 🧠 About Me  
+## 👨‍💻 Professional Summary
 
-Aspiring Software Engineer with strong foundations in Java, DSA, and full-stack development. Experienced in building scalable web applications using Spring Boot, React.js, Node.js, and relational databases. Eager to apply problem-solving skills and contribute to impactful software projects.
-
----
-
-# 🚀 Tech Stack
-
-### 💻 Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,js" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" />
-</p>
-
-### 🎨 Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
-</p>
-
-### 🗄️ Database
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### ☁️ Cloud & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
-</p>
+Aspiring Software Engineer with strong foundations in Java, Data Structures & Algorithms, and full-stack development. Experienced in building scalable web applications using Spring Boot, React.js, Node.js, and relational databases. Focused on writing clean, maintainable, and production-ready code.
 
 ---
 
-# 📊 GitHub Stats
+## 🛠 Technical Skills
+
+### Programming Languages
+Java, C++, C#, JavaScript
+
+### Backend Technologies
+Spring Boot, Node.js, Express.js, ASP.NET Core
+
+### Frontend Technologies
+React.js, HTML5, CSS3, Bootstrap
+
+### Databases
+MySQL, MongoDB
+
+### Tools & Platforms
+Git, GitHub, VS Code, AWS
+
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pratikkanap&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pratikkanap&show_icons=true&theme=default&hide_border=true" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkanap&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikkanap&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkanap&theme=default&hide_border=true" height="160"/>
 
 </div>
 
 ---
 
-# 🎓 Academic Details
+## 🎓 Education
 
-### 🎓 PG-DAC (Aug 2025 Batch)  
-**Total: 200 / 320**
+### PG-DAC (Aug 2025 Batch)  
+Score: 200 / 320  
 
-### 🎓 B.Tech – Computer Science & Engineering  
-Tatyasaheb Kore Institute of Engineering & Technology, Warananagar, Kolhapur  
+### B.Tech – Computer Science & Engineering  
+Tatyasaheb Kore Institute of Engineering & Technology, Kolhapur  
 Shivaji University, Maharashtra  
 Year: 2025  
 Percentage: 69.45%
 
-### 🎓 XII – Science (CBSE)  
-Kendriya Vidyalaya (B.E.G), Yerawada, Pune  
+### XII – CBSE  
+Kendriya Vidyalaya (B.E.G), Pune  
 Year: 2021  
 Percentage: 64.4%
 
-### 🎓 X – CBSE  
-Kendriya Vidyalaya (B.E.G), Yerawada, Pune  
+### X – CBSE  
+Kendriya Vidyalaya (B.E.G), Pune  
 Year: 2019  
 Percentage: 68.6%
 
 ---
 
-# 🚀 Academic Projects
+## 🚀 Academic Projects
 
-## 🥗 NutriFit – Fitness & Diet Planning Platform
+### NutriFit – Fitness & Diet Planning Platform  
+**Tech Stack:** ASP.NET Core, C#, React.js, MySQL, AWS  
 
-**Platform:** ASP.NET Core, C#, React.js, MySQL, Git, AWS  
-**Duration:** 1 Month  
+- Developed full-stack fitness tracking platform  
+- Built responsive UI and admin dashboard  
+- Designed optimized database schema  
+- Deployed application on AWS  
 
-✔ Developed full-stack fitness tracker & diet planner  
-✔ Built responsive React UI  
-✔ Designed feature-rich admin dashboard  
-✔ Integrated MySQL with optimized queries  
-✔ Deployed on AWS  
-
-🔗 https://github.com/harode12/NutriFit  
+Repository:  
+https://github.com/harode12/NutriFit  
 
 ---
 
-## 🎓 Academix – Attendance & Performance Management System  
+### Academix – Attendance & Performance Management System  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
 
-**Platform:** React.js, Node.js, Express.js, MongoDB, REST API  
-**Duration:** 4 Months  
+- Implemented role-based dashboards  
+- Developed secure REST APIs  
+- Built attendance analytics system  
+- Automated alerts for academic monitoring  
 
-✔ Role-based dashboards  
-✔ Secure REST APIs  
-✔ Attendance tracking & analytics  
-✔ Automated alerts  
-✔ Responsive UI  
-
-🔗 https://github.com/pratikkanap/Academix  
+Repository:  
+https://github.com/pratikkanap/Academix  
 
 ---
 
-# 💼 Internship Experience
+## 💼 Internship Experience
 
-### Java Developer Intern  
+**Java Developer Intern**  
 Technocipher IT Solutions, Pune  
 
-Worked on backend modules, API development, and database integration.
+- Contributed to backend module development  
+- Designed REST APIs  
+- Worked on database integration and optimization  
 
 ---
 
-# 🎯 Career Objective  
+## 🎯 Career Objective
 
-Seeking an opportunity as a Software Engineer / Java Backend Developer / ASP .NET Developer / Full-Stack Developer where I can contribute to scalable enterprise applications and grow in backend architecture.
+Seeking an opportunity as a Software Engineer / Java Backend Developer / Full-Stack Developer where I can contribute to scalable enterprise applications and grow in backend architecture and system design.
 
 ---
 
-# 🌐 Connect With Me  
+## 🌐 Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kanap-pratik/">
-<img src="https://img.shields.io/badge/LinkedIn-Kanap_PratiK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=pratikkanap&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+[LinkedIn](https://www.linkedin.com/in/kanap-pratik/)  
 
 </div>
 
@@ -154,8 +125,6 @@ Seeking an opportunity as a Software Engineer / Java Backend Developer / ASP .NE
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c92d2,50:2c5364,100:0f2027&height=150&section=footer&animation=fadeIn"/>
-
-### 🔥 “First, solve the problem. Then, write the code.”
+"First, solve the problem. Then, write the code."
 
 </div>
