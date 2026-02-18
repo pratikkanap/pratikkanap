@@ -1,9 +1,14 @@
 <div align="center">
 
-# 🚀 Hi, I'm Kanap Pratik Popat  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kanap%20Pratik%20Popat&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Aspiring+Software+Engineer;💻+Java+%7C+Full-Stack+Developer;🔥+DSA+%7C+Spring+Boot+%7C+React+Enthusiast" />
+</h1>
 
 </div>
 
+---
 
 ## 🧠 About Me  
 
@@ -14,27 +19,27 @@ Aspiring Software Engineer with strong foundations in Java, DSA, and full-stack 
 # 🛠️ Tech Stack
 
 ## 💻 Languages
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,cpp,cs,js" />
 </p>
 
 ## ⚙️ Backend
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" />
 </p>
 
 ## 🎨 Frontend
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
 ## 🗄️ Database
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ## ☁️ Cloud & Tools
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -42,30 +47,30 @@ Aspiring Software Engineer with strong foundations in Java, DSA, and full-stack 
 
 # 🎓 Academic Details
 
-## 🎓 PG-DAC (Aug 2025 Batch)  
+### 🎓 PG-DAC (Aug 2025 Batch)  
 **Total: 200 / 320**
 
 ---
 
-## 🎓 B.Tech – Computer Science & Engineering  
+### 🎓 B.Tech – Computer Science & Engineering  
 **Institute:** Tatyasaheb Kore Institute of Engineering & Technology, Warananagar, Kolhapur  
 **University:** Shivaji University, Maharashtra  
 **Year:** 2025  
-**Percentage:** 69.45%  
+**Percentage:** 69.45%
 
 ---
 
-## 🎓 XII – Science (CBSE)  
+### 🎓 XII – Science (CBSE)  
 Kendriya Vidyalaya (B.E.G), Yerawada, Pune  
 Year: 2021  
-Percentage: 64.4%  
+Percentage: 64.4%
 
 ---
 
-## 🎓 X – CBSE  
+### 🎓 X – CBSE  
 Kendriya Vidyalaya (B.E.G), Yerawada, Pune  
 Year: 2019  
-Percentage: 68.6%  
+Percentage: 68.6%
 
 ---
 
@@ -105,14 +110,12 @@ https://github.com/pratikkanap/Academix
 
 # 💼 Internship Experience
 
-**Java Developer Intern**  
+### Java Developer Intern  
 Technocipher IT Solutions, Pune  
 
 Worked on backend modules, API development, and database integration.
 
 ---
-
-
 
 # 🎯 Career Objective  
 
@@ -124,13 +127,21 @@ Seeking an opportunity as a Software Engineer / Java Backend Developer / ASP .NE
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanap_PratiK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanap-pratik/)
+<a href="https://www.linkedin.com/in/kanap-pratik/">
+<img src="https://img.shields.io/badge/LinkedIn-Kanap_PratiK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=pratikkanap&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 🔥 *“First, solve the problem. Then, write the code.”*
 
