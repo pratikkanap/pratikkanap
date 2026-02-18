@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=120&section=header&text=Kanap%20Pratik%20Popat&fontSize=28&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=140&section=header&text=Kanap%20Pratik%20Popat&fontSize=28&fontColor=ffffff" />
 
-### Software Engineer | Java Backend Developer | Full-Stack Engineer
+📧 kanappratik@gmail.com    
+📍 Pune, Maharashtra, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/kanap-pratik/) | [GitHub](https://github.com/pratikkanap)
 
 </div>
 
@@ -19,15 +21,15 @@ Aspiring Software Engineer with strong foundations in Java, Data Structures & Al
 ### Tools & Platforms
 Git, GitHub, VS Code, AWS
 
-## 💻 Programming Languages <p> <img src="https://skillicons.dev/icons?i=java,cpp,cs,js" /> </p>
+## 💻 Programming Languages <br> <p> <img src="https://skillicons.dev/icons?i=java,cpp,cs,js" /> </p>
 
-## ⚙️ Backend Technologies <p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" /> </p> 
+## ⚙️ Backend Technologies <br>  <p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" /> </p> 
 
-## 🎨 Frontend Technologies <p> <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" /> </p> 
+## 🎨 Frontend Technologies  <br> <p> <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" /> </p> 
 
-## 🗄️ Databases <p> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p> 
+## 🗄️ Databases  <br> <p> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p> 
 
-## ☁️ Tools <p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+## ☁️ Tools  <br> <p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 ---
 
 ## 📊 GitHub Overview
