@@ -18,10 +18,7 @@ Aspiring Software Engineer with strong foundations in Java, Data Structures & Al
 
 # 🛠 Technical Skills
 
-### Tools & Platforms
-Git, GitHub, VS Code, AWS
-
-## 💻 Programming Languages <br/><br/> <p> <img src="https://skillicons.dev/icons?i=java,cpp,cs,js" /> </p>
+## 💻 Programming Languages <br/><br/> <p> <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,js" /> </p>
 
 ## ⚙️ Backend Technologies <br/><br/><p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" /> </p> 
 
