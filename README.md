@@ -21,31 +21,15 @@ Aspiring Software Engineer with strong foundations in Java, Data Structures & Al
 ### Tools & Platforms
 Git, GitHub, VS Code, AWS
 
-## 💻 Programming Languages <br> <p> <img src="https://skillicons.dev/icons?i=java,cpp,cs,js" /> </p>
+## 💻 Programming Languages <br/><br/><br/> <p> <img src="https://skillicons.dev/icons?i=java,cpp,cs,js" /> </p>
 
-## ⚙️ Backend Technologies <br>  <p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" /> </p> 
+## ⚙️ Backend Technologies <br/><br/><br/>  <p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" /> </p> 
 
-## 🎨 Frontend Technologies  <br> <p> <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" /> </p> 
+## 🎨 Frontend Technologies  <br/><br/><br/> <p> <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" /> </p> 
 
 ## 🗄️ Databases  <br> <p> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p> 
 
 ## ☁️ Tools  <br> <p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pratikkanap&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkanap&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikkanap&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
 ---
 
 ## 🎓 Education
