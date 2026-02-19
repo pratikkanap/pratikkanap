@@ -21,15 +21,15 @@ Aspiring Software Engineer with strong foundations in Java, Data Structures & Al
 ### Tools & Platforms
 Git, GitHub, VS Code, AWS
 
-## 💻 Programming Languages <br/><br/><br/> <p> <img src="https://skillicons.dev/icons?i=java,cpp,cs,js" /> </p>
+## 💻 Programming Languages <br/><br/> <p> <img src="https://skillicons.dev/icons?i=java,cpp,cs,js" /> </p>
 
-## ⚙️ Backend Technologies <br/><br/><br/>  <p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" /> </p> 
+## ⚙️ Backend Technologies <br/><br/><p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,dotnet" /> </p> 
 
-## 🎨 Frontend Technologies  <br/><br/><br/> <p> <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" /> </p> 
+## 🎨 Frontend Technologies  <br/><br/> <p> <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" /> </p> 
 
-## 🗄️ Databases  <br> <p> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p> 
+## 🗄️ Databases  <br/><br/> <p> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p> 
 
-## ☁️ Tools  <br> <p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+## ☁️ Tools  <br/><br/> <p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 ---
 
 ## 🎓 Education
