@@ -100,16 +100,6 @@ Seeking an opportunity as a Software Engineer / Java Backend Developer / Full-St
 
 ---
 
-## 🌐 Connect
-
-<div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/kanap-pratik/)  
-
-</div>
-
----
-
 <div align="center">
 
 "First, solve the problem. Then, write the code."
