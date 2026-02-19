@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=140&section=header&text=Kanap%20Pratik%20Popat&fontSize=28&fontColor=ffffff" />
+<h1 align="center">Hi, I'm Kanap Pratik Popat 👋</h1>
 
 📧 kanappratik@gmail.com    
 📍 Pune, Maharashtra, India  
