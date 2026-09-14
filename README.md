@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Pune%2C%20Maharashtra-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <br><br>
  
-<a href="https://github.com/yourusername">
+<a href="https://personal-portfolio-a-92be97a5.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/yourusername">
