@@ -12,10 +12,10 @@
 <a href="https://personal-portfolio-a-92be97a5.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://www.linkedin.com/in/kanap-pratik/">
 <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/pratikkanap">
 <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:kanappratik@gmail.com">
