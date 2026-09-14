@@ -180,17 +180,18 @@ A full-stack attendance and performance tracking system with role-based dashboar
 ## CONNECT
  
 <div align="center">
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://www.linkedin.com/in/kanap-pratik/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/pratikkanap">
 <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:kanappratik@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</div>
- 
+</div>  
+
+
 <div align="center">
  "Build scalable systems. Write clean code. Keep learning."
  
