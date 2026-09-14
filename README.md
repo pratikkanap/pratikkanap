@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/github/followers/yourusername?label=FOLLOWERS&style=flat-square&color=4C1D95"/>
 <img src="https://img.shields.io/github/stars/yourusername?label=STARS&style=flat-square&color=6D28D9"/>
 </div>
----
  
 ## ABOUT
  
@@ -54,7 +53,7 @@ DevOps / Cloud Deployment ███████████████░░░
  
 `Software Developer` · `Full Stack Development` · `Backend Development` · `Java Development` · `.NET Development`
  
----
+
  
 ## TECH STACK
  
@@ -167,7 +166,6 @@ A full-stack attendance and performance tracking system with role-based dashboar
 `Node.js` `Express.js` `React` `MongoDB` `REST APIs` `Role-Based Auth`
  
 </details>
----
  
 ## EDUCATION
  
@@ -192,10 +190,9 @@ A full-stack attendance and performance tracking system with role-based dashboar
 <img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
----
  
 <div align="center">
-### "Build scalable systems. Write clean code. Keep learning."
+ "Build scalable systems. Write clean code. Keep learning."
  
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=120&section=footer" width="100%"/>
