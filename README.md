@@ -57,17 +57,17 @@ DevOps / Cloud Deployment ███████████████░░░
  
 ## TECH STACK
  
-### Languages
+ Languages
  
 <p>
 <img src="https://skillicons.dev/icons?i=java,c,cs,javascript,html,css&theme=dark"/>
 </p>
-### Frontend
+ Frontend
  
 <p>
 <img src="https://skillicons.dev/icons?i=react,bootstrap,javascript,html,css&theme=dark"/>
 </p>
-### Backend & Databases
+ Backend & Databases
  
 <p>
 <img src="https://skillicons.dev/icons?i=spring,hibernate,dotnet,mysql&theme=dark"/>
@@ -79,7 +79,7 @@ DevOps / Cloud Deployment ███████████████░░░
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JDBC-4C1D95?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
-### Tools & Concepts
+ Tools & Concepts
  
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
@@ -90,7 +90,7 @@ DevOps / Cloud Deployment ███████████████░░░
 <img src="https://img.shields.io/badge/RESTful%20APIs-312E81?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT%20Authentication-4338CA?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
----
+
  
 ## EXPERIENCE
  
