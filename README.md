@@ -112,8 +112,6 @@ Worked on backend systems for Healthcare and ERP domains, focused on secure, sca
  
 `Java` `Spring Boot` `Spring Security` `MVC` `MySQL` `JDBC` `REST APIs` `Agile` `Git`
  
----
- 
 ## FEATURED PROJECTS
  
 <details>
@@ -144,8 +142,7 @@ A scalable full-stack fitness platform delivering BMI-based recommendations thro
 `ASP.NET Core` `React` `MySQL` `EF Core` `JWT` `RBAC` `Azure` `REST APIs`
  
 </details>
----
- 
+
 <details>
 <summary><b>🎓 Academix — Attendance Monitoring and Performance System</b></summary>
 <br>
@@ -181,45 +178,6 @@ A full-stack attendance and performance tracking system with role-based dashboar
 | **12th (CBSE)**                      | Kendriya Vidyalaya (B.E.G), Pune (2020–2021)                       | 64%             |
 | **10th (CBSE)**                      | Kendriya Vidyalaya (B.E.G), Pune (2018–2019)                       | 68%             |
  
----
- 
-## CODING PROFILES
- 
-<div align="center">
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/yourusername">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</div>
----
- 
-## GITHUB ANALYTICS
- 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=10"/>
-</div>
-<br>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6B7280" width="70%"/>
-</div>
----
- 
-## GITHUB TROPHIES
- 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
-</div>
----
- 
-## CONTRIBUTION ACTIVITY
- 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=6D28D9&area=true&hide_border=true" width="100%"/>
-</div>
----
  
 ## CONNECT
  
