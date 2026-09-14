@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=190&section=header&text=PRATIK%20KANAP&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Software%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
-<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Development+%7C+RESTful+APIs;Java+%7C+Spring+Boot+%7C+ASP.NET+Core+%7C+React;MySQL+%7C+SQL+Server+%7C+JWT+Authentication;Building+Scalable%2C+Secure+Web+Applications" alt="Typing SVG"/>
 <br><br>
  
@@ -21,11 +21,8 @@
 <a href="mailto:kanappratik@gmail.com">
 <img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<br><br>
  
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/yourusername?label=FOLLOWERS&style=flat-square&color=4C1D95"/>
-<img src="https://img.shields.io/github/stars/yourusername?label=STARS&style=flat-square&color=6D28D9"/>
+
 </div>
  
 ## ABOUT
