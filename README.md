@@ -30,13 +30,9 @@
  
 ## ABOUT
  
-I am **Pratik Kanap**, a Computer Science and Engineering graduate and **C-DAC certified professional** seeking an entry-level Software Developer role.
+I am **Pratik Kanap**, a Computer Science and Engineering graduate and **C-DAC certified professional** seeking an entry-level Software Developer role. My experience spans **full-stack development, RESTful API design and database management**, with hands-on work building scalable, secure web applications across Java/Spring Boot and ASP.NET Core ecosystems.
  
-My experience spans **full-stack development, RESTful API design and database management**, with hands-on work building scalable, secure web applications across Java/Spring Boot and ASP.NET Core ecosystems.
- 
-I enjoy working across the full engineering lifecycle — designing databases, building secure REST APIs, implementing role-based authentication and JWT security, and shipping responsive React frontends connected to production-ready backends.
- 
-I bring strong problem-solving ability, effective teamwork and eagerness to contribute to innovative software solutions.
+I enjoy working across the full engineering lifecycle — designing databases, building secure REST APIs, implementing role-based authentication and JWT security, and shipping responsive React frontends connected to production-ready backends. I bring strong problem-solving ability, effective teamwork and eagerness to contribute to innovative software solutions.
  
 ### ENGINEERING MINDSET
  
@@ -62,16 +58,19 @@ DevOps / Cloud Deployment ███████████████░░░
 <p>
 <img src="https://skillicons.dev/icons?i=java,c,cs,javascript,html,css&theme=dark"/>
 </p>
+
  Frontend
  
 <p>
 <img src="https://skillicons.dev/icons?i=react,bootstrap,javascript,html,css&theme=dark"/>
 </p>
+
  Backend & Databases
  
 <p>
 <img src="https://skillicons.dev/icons?i=spring,hibernate,dotnet,mysql&theme=dark"/>
 </p>
+
 <p>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -79,6 +78,7 @@ DevOps / Cloud Deployment ███████████████░░░
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JDBC-4C1D95?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
+
  Tools & Concepts
  
 <p>
